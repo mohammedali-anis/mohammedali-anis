@@ -11,9 +11,9 @@ Here are some infos to get some ideas about me :
 - 🤓 I'm Java Advocate
 - 🌱 I’m currently learning everything and specially Python 🐍
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything you want to 😊
+- 💬 Ask me about anything you want 😊
 - 😄 Pronouns: he / his
-- ⚡ Fun fact: I speak 4 language English 🇺🇸 , German 🇩🇪 , Turkish 🇹🇷 and Arabic 🇦🇪
+- ⚡ Fun fact: I speak 4 languages English 🇺🇸 , German 🇩🇪 , Turkish 🇹🇷 and Arabic 🇦🇪
 - 🏡 Originally from **Aleppo** 🇸🇾, living in **Siegen** 🇩🇪
 
 <!--
