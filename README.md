@@ -67,26 +67,26 @@ Here are some infos to get some ideas about me :
 
 <br><br><br><br><br><br><br><br>
 
-<h3 align="center">### 📬 Find me on :</h3>
+### 📬 Find me on :
  <a href="mailto:moh.ali.anis@gmail.com" align="center">
-  <img align="center" alt="gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" />
+  <img align="left" alt="gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" />
 </a>
  <a href="https://www.instagram.com/mohammedali.anis/" align="center">
-  <img align="center" alt="instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
+  <img align="left" alt="instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
 </a>
  <a href="https://wa.me/00491629222748">
-  <img align="center" alt="Abhishek's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+  <img align="left" alt="spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
  <a href="https://www.facebook.com/mohammedali.anis/">
-  <img align="center" alt="facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
+  <img align="left" alt="facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
 </a>
  <a href="https://www.linkedin.com/in/mohammed-ali-anis-b0b57212a/">
-  <img align="center" alt="linkedin" width="22px" src="https://www.nicepng.com/png/full/916-9162764_download-icon-linkedin-svg-eps-png-psd-ai.png" />
+  <img align="left" alt="linkedin" width="22px" src="https://www.nicepng.com/png/full/916-9162764_download-icon-linkedin-svg-eps-png-psd-ai.png" />
 </a>
  <a href="https://stackoverflow.com/users/edit/14376890">
-  <img align="center" alt="stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
+  <img align="left" alt="stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
 </a>
  <a href="https://open.spotify.com/user/partyaccount123321">
-  <img align="center" alt="spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
   </P>
