@@ -51,7 +51,7 @@ Here are some infos to get some ideas about me :
 
 <br>
 
-### 📈 Project has been done in 2021 :
+### 💻 Project has been done in 2021 :
 
 <a href="https://github.com/mohammedali-anis/Website-Elkenroth">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedali-anis&repo=Website-Elkenroth&theme=dark" />
@@ -62,7 +62,7 @@ Here are some infos to get some ideas about me :
 ### 📈 My GitHub Stats :
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammedali-anis&show_icons=false&theme=dark&count_private=true&show_icons=true&hide=prs,issues,contribs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammedali-anis&&theme=dark&count_private=true&show_icons=true&hide=prs,issues,contribs" />
 </a>
 
 <br><br><br><br><br><br><br><br>
