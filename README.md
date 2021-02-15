@@ -44,10 +44,10 @@ Here are some infos to get some ideas about me :
 
 | Language      | Proficiency                                                               | Certificate                                                 |
 | ------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------|
-| English       | Upper Intermediate                                                        |-                                                            |
-| German        | C1                                                                        |[DSH 2](https://www.dsh-germany.com)                         |
-| Turkish       | C2                                                                        |[Tömer](https://tr.wikipedia.org/wiki/Türkçe_Yeterlik_Sınavı)|
-| Arabic        | Native Language                                                           |-                                                            |
+| English   🇺🇸  | Upper Intermediate                                                        |-                                                            |
+| German    🇩🇪  | C1                                                                        |[DSH 2](https://www.dsh-germany.com)                         |
+| Turkish   🇹🇷  | C2                                                                        |[Tömer](https://tr.wikipedia.org/wiki/Türkçe_Yeterlik_Sınavı)|
+| Arabic    🇦🇪  | Native Language                                                           |-                                                            |
 
 <br>
 
