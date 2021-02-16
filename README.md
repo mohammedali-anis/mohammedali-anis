@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi🤭 Here is Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+  <h1 align="center"><b>Here is Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 
 My name is Ali and I'm Infromatic student at [Siegen University](https://www.uni-siegen.de/start/), Germany
