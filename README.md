@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Welcome to my page, Here is Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+  <h1 align="center"><b>Hi🤭 Here is Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 
 My name is Ali and I'm Infromatic student at [Siegen University](https://www.uni-siegen.de/start/), Germany
@@ -47,7 +47,7 @@ Here are some infos to get some ideas about me :
 | 🇺🇸 English    | Upper Intermediate                                                        |-                                                            |
 | 🇩🇪 German     | C1                                                                        |[DSH 2](https://www.dsh-germany.com)                         |
 | 🇹🇷 Turkish    | C2                                                                        |[Tömer](https://tr.wikipedia.org/wiki/Türkçe_Yeterlik_Sınavı)|
-| 🇦🇪 Arabic     | Native Language                                                           |-                                                            |
+| 🇸🇾 Arabic     | Native Language                                                           |-                                                            |
 
 <br>
 
