@@ -9,9 +9,6 @@ Here are some infos to get some ideas about me :
 <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/79/de/d2/79ded2fb2505f86ae4716b3fedf8b0a8.gif" />
 - 🔭 I’m currently writing my thesis and working on my portfolio websites
 - 🤓 I'm Java programmer and web developer
-<!--
-- 🌱 I’m currently learning everything and specially Python 🐍
--->
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything you want 😊
 - 😄 Pronouns: he / his
