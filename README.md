@@ -8,8 +8,10 @@ My name is Ali and I'm Infromatic student at [Siegen University](https://www.uni
 Here are some infos to get some ideas about me :
 <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/79/de/d2/79ded2fb2505f86ae4716b3fedf8b0a8.gif" />
 - 🔭 I’m currently writing my thesis and working on my portfolio websites
-- 🤓 I'm Java Advocate
+- 🤓 I'm Java programmer and web developer
+<!--
 - 🌱 I’m currently learning everything and specially Python 🐍
+-->
 - 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything you want 😊
 - 😄 Pronouns: he / his
@@ -23,6 +25,7 @@ Here are some infos to get some ideas about me :
 
 ### ⚙️ Languages and Tools:
 <!-- start tools and languages -->
+<!--
 <img align="left" alt="java" width="30px" src="images/java.png" />
 <img align="left" alt="apache" width="30px" src="images/apache.png" />
 <img align="left" alt="jsp" width="30px" src="images/jsp.png" />
@@ -33,6 +36,17 @@ Here are some infos to get some ideas about me :
 <img align="left" alt="css" width="30px" src="images/css.png" />
 <img align="left" alt="bootstap" width="30px" src="images/bootstrap.png" />
 <img align="left" alt="c++" width="30px" src="images/c++.png" />
+<img align="left" alt="ccna" width="30px" src="images/ccna.png" />
+<img align="left" alt="github" width="30px" src="images/github-white.png" />
+<img align="left" alt="photoshop" width="30px" src="images/photoshop.png" />
+-->
+<img align="left" alt="java" width="30px" src="images/java.png" />
+<img align="left" alt="apache" width="30px" src="images/apache.png" />
+<img align="left" alt="jsp" width="30px" src="images/jsp.png" />
+<img align="left" alt="sqlite" width="30px" src="images/sqlite.png" />
+<img align="left" alt="mysql" width="30px" src="images/mysql.png" />
+<img align="left" alt="html" width="30px" src="images/html.png" />
+<img align="left" alt="css" width="30px" src="images/css.png" />
 <img align="left" alt="ccna" width="30px" src="images/ccna.png" />
 <img align="left" alt="github" width="30px" src="images/github-white.png" />
 <img align="left" alt="photoshop" width="30px" src="images/photoshop.png" />
