@@ -38,7 +38,7 @@ Here are some infos to get some ideas about me :
 <img align="left" alt="photoshop" width="30px" src="images/photoshop.png" />
 -->
 <img align="left" alt="spring2" width="30px" src="images/spring2.png" />
-<img align="left" alt="spring" width="30px" src="images/spring2.png" />
+<img align="left" alt="spring" width="30px" src="images/spring.png" />
 <img align="left" alt="java" width="30px" src="images/java.png" />
 <img align="left" alt="apache" width="30px" src="images/apache.png" />
 <img align="left" alt="jsp" width="30px" src="images/jsp.png" />
