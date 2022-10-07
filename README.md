@@ -2,7 +2,8 @@
   <h1 align="center"><b>Here is Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 
-My name is Ali and I'm Infromatic Engineer graduated from [Siegen University](https://www.uni-siegen.de/start/), Germany
+My name is Ali and I'm Infromatic Engineer graduated from [Siegen University](https://www.uni-siegen.de/start/), Germany.
+Currently i am working as Software Developer in [Barmenia Versicherungen](https://www.https://www.barmenia.de/), Wuppertal, Germany.
 
 
 Here are some infos to get some ideas about me :
@@ -13,7 +14,7 @@ Here are some infos to get some ideas about me :
 - 💬 Ask me about anything you want 😊
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I speak 4 languages English 🇺🇸 , German 🇩🇪 , Turkish 🇹🇷 and Arabic 🇸🇾
-- 🏡 Originally from **Aleppo** 🇸🇾, living in **Siegen** 🇩🇪
+- 🏡 Originally from **Aleppo** 🇸🇾, living in **Wuppertal** 🇩🇪
 
 <!--
 ### ✈️ Visited Countries : 🇲🇹 🇹🇷 🇩🇪 🇦🇹 🇪🇸 🇱🇧 🇨🇭 🇮🇹 🇫🇷 🇳🇱 🇮🇪 🇨🇿 🇸🇾 
