@@ -3,7 +3,7 @@
 </p>
 
 My name is Ali and I'm Infromatic Engineer graduated from [Siegen University](https://www.uni-siegen.de/start/), Germany.
-Currently i am working as Software Developer in [Barmenia Versicherungen](https://www.https://www.barmenia.de/), Wuppertal, Germany.
+Currently i am working as Software Developer in [Barmenia Versicherungen](https://www.https://www.barmenia.de/), Wuppertal - Germany.
 
 
 Here are some infos to get some ideas about me :
