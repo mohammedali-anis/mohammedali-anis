@@ -48,6 +48,7 @@ Here are some infos to get some ideas about me :
 <img align="left" alt="css" width="30px" src="images/css.png" />
 <img align="left" alt="ccna" width="30px" src="images/ccna.png" />
 <img align="left" alt="github" width="30px" src="images/github-white.png" />
+<img align="left" alt="Jira" width="30px" src="images/jira.png" />
 <img align="left" alt="photoshop" width="30px" src="images/photoshop.png" />
 <!-- start tools and languages -->
 <br />
