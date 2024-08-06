@@ -99,7 +99,7 @@ Here are some infos to get some ideas about me :
  <a href="https://www.linkedin.com/in/mohammed-ali-anis-b0b57212a/">
   <img align="left" alt="linkedin" width="22px" src="images/linkedin-app-white-icon.webp" />
 </a>
- <a href="https://stackoverflow.com/users/edit/14376890">
+ <a href="https://stackoverflow.com/users/14376890/mohammed-ali-anis">
   <img align="left" alt="stackoverflow" width="22px" src="images/stackoverflow-xxl.png" />
 </a>
  <a href="https://open.spotify.com/user/partyaccount123321">
