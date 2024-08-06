@@ -91,18 +91,18 @@ Here are some infos to get some ideas about me :
   <img align="left" alt="spring2" width="22px" src="images/Instagram_Glyph_White.png" />
 </a>
  <a href="https://wa.me/00491629222748">
-  <img align="left" alt="spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+  <img align="left" alt="whatsapp" width="22px" src="images/Digital_Glyph_White.png" />
 </a>
  <a href="https://www.facebook.com/mohammedali.anis/">
-  <img align="left" alt="facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg" />
+  <img align="left" alt="facebook" width="22px" src="images/icons8-facebook-logo-50.png" />
 </a>
  <a href="https://www.linkedin.com/in/mohammed-ali-anis-b0b57212a/">
-  <img align="left" alt="linkedin" width="22px" src="https://www.nicepng.com/png/full/916-9162764_download-icon-linkedin-svg-eps-png-psd-ai.png" />
+  <img align="left" alt="linkedin" width="22px" src="images/linkedin.png" />
 </a>
  <a href="https://stackoverflow.com/users/edit/14376890">
-  <img align="left" alt="stackoverflow" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" />
+  <img align="left" alt="stackoverflow" width="22px" src="images/stackoverflow-icon.svg" />
 </a>
  <a href="https://open.spotify.com/user/partyaccount123321">
-  <img align="left" alt="spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="spotify" width="22px" src="images/Spotify_Primary_Logo_RGB_Green.png" />
 </a>
   </P>
