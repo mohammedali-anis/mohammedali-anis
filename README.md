@@ -2,19 +2,19 @@
   <h1 align="center"><b>Here is Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 </p>
 
-My name is Ali and I'm Infromatic Engineer graduated from [Siegen University](https://www.uni-siegen.de/start/), Germany.
-Currently i am working as Software Developer in [Barmenia Versicherungen](https://www.barmenia.de/), Wuppertal - Germany.
+My name is Ali and I'm Infromatic Engineer graduated from [Siegen University](https://www.uni-siegen.de/start/), Siegen Germany.
+Currently i am working as Software Developer in [ROLAND Rechtsschutz-Versicherungs-AG](https://www.roland-rechtsschutz.de/), Köln - Germany.
 
 
 Here are some infos to get some ideas about me :
 <img align="right" height="250" alt="GIF" src="https://i.pinimg.com/originals/79/de/d2/79ded2fb2505f86ae4716b3fedf8b0a8.gif" />
-- 🔭 I’m working as Software Developer at [Barmenia Versicherungen](https://www.barmenia.de/), Wuppertal 🇩🇪
+- 🔭 I’m working as Software Developer at [ROLAND Rechtsschutz-Versicherungs](https://www.roland-rechtsschutz.de/), Köln 🇩🇪
 - 🤓 I'm Java programmer and web developer
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything you want 😊
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I speak 4 languages English 🇺🇸 , German 🇩🇪 , Turkish 🇹🇷 and Arabic 🇸🇾
-- 🏡 Originally from **Aleppo** 🇸🇾, living in **Wuppertal** 🇩🇪
+- 🏡 Originally from **Aleppo** 🇸🇾, living in **Siegen** 🇩🇪
 
 <!--
 ### ✈️ Visited Countries : 🇲🇹 🇹🇷 🇩🇪 🇦🇹 🇪🇸 🇱🇧 🇨🇭 🇮🇹 🇫🇷 🇳🇱 🇮🇪 🇨🇿 🇸🇾 
