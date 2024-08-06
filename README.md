@@ -88,7 +88,7 @@ Here are some infos to get some ideas about me :
   <img align="left" alt="gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" />
 </a>
  <a href="https://www.instagram.com/mohammedali.anis/" align="center">
-  <img align="left" alt="instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />
+  <img align="left" alt="spring2" width="30px" src="images/Instagram_Glyph_White.png" />
 </a>
  <a href="https://wa.me/00491629222748">
   <img align="left" alt="spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
