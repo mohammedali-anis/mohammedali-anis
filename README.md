@@ -85,7 +85,7 @@ Here are some infos to get some ideas about me :
 
 ### 📬 Find me on :
  <a href="mailto:moh.ali.anis@gmail.com" align="center">
-  <img align="left" alt="gmail" width="22px" src="images/Gmail_Logo_Black_512px.png" />
+  <img align="left" alt="gmail" width="22px" src="images/Gmail_Logo_White_512px.png" />
 </a>
  <a href="https://www.instagram.com/mohammedali.anis/" align="center">
   <img align="left" alt="spring2" width="22px" src="images/Instagram_Glyph_White.png" />
